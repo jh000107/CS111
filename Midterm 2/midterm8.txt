@@ -1,0 +1,17 @@
+#
+# midterm problem 8
+#
+
+00	setn r2 0	# count for positive
+01	setn r3 0	# count for negative
+02	read r1		# takes a number from the user
+03	jeqz r1 10	# jump to line 10 if r1 = 0
+04	jgtz r1 6	# jump to line 5 if the number is positive
+05	jltz r1 8	# jump to line 8 if the number is negative
+06	addn r2 1	# add 1 to r2
+07	jumpn 2		# jump to line 2
+08	addn r3 1	# add 1 to r3
+09	jumpn 2		# jump to line 2
+10	write r2	# print r2
+11	write r3	# print r3
+12	halt

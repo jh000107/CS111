@@ -1,0 +1,75 @@
+Chan Sol park
+chansol
+
+1. 
+def mystery1(wordlist):
+    """ takes a list of words and does something with them """
+    scored_words = [[w[-1], w] for w in wordlist]
+    best_pair = max(scored_words) 
+    return best_pair[1]
+
+print(mystery1(['do', 'you', 'comprehend', 'this']))
+
+       w       |   scored_words
+----------------------------------
+    do        |     ['o', 'do']
+    you       |     [['o', 'do'], ['u', 'you']]
+    comprehend|     [['o', 'do'], ['u', 'you'], ['d', 'comprehend']]
+    this      |	    [['o', 'do'], ['u', 'you'], ['d', 'comprehend'], ['s', 'this']]	
+
+2. ['u', 'you']
+
+3. 'you'
+
+4. It gets a list of words. Then, get the last position letter of each words. Then, gets
+   each letter's number value(ASCII), then outputs the word which has the highest number 
+   value of its last letter. 
+
+5.
+def mystery2(s):
+    """ takes a string s and does something with it """
+    if len(s) <= 1:
+        return s
+    else:
+        result_rest = mystery2(s[1:])
+        if s[0] == s[-1]:
+            return result_rest + s[0]
+        else:
+            return result_rest
+
+mystery2('kisses')
+------------------------
+    s = 'kisses'
+    result_rest = 'sss'
+    return 'sss'
+
+    mystery2('isses')
+    ---------------------
+        s = 'isses'
+        result_rest = 'sss'
+        return 'sss'
+
+        mystery2('sses')
+        ---------------------
+            s = 'sses'
+            result_rest = 'ss'
+            return 'sss'
+
+		mystery2('ses')
+       		---------------------
+        	 s = 'ses'
+           	 result_rest = 's'
+            	 return 'ss'
+
+			mystery2('es')
+        		---------------------
+           		 s = 'es'
+          		 result_rest = 's'
+          		 return 's'
+	
+				mystery2('s')
+      			  	---------------------
+            			s = 's'
+            			return 's'
+return value output: 'sss'
+

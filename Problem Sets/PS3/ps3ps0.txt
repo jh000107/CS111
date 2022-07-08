@@ -1,0 +1,7 @@
+1. What was the most interesting or important idea in this article for you - and why?
+
+I think the most interesting idea in this article is the capability of DNA-based computers in the way they can "cure or kill cells which are such or in trouble." I believe this is a revolutionary discovery in medical history as well. By being able to control specific areas within a program, there would be a broader scope of area that a program could contribute in various applications. Also, I always find something astonishing when researchers make a new "way" to approach an existing language. As what the article says, the new way to compute simple operations is so exciting.
+
+2. Which homework problem that we’ve done so far would you describe as being closest to the kinds of problems solved by the DNA computers mentioned in the article? Why?
+
+From the homework problems that we've done so far, I would describe recursive functions-related problems as being closest to the kinds of problems solved by the DNA computers. Since the DNA computers are suited for executing such detailed codes, I think they would be perfect for going through all the specific conditions that a recursive function contains. Specifically, when a function needs list comprehensions involving recursion functions, preciseness of the DNA computers would definitely help a big program to execute complicated functions.

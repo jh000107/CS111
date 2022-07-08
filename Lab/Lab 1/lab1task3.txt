@@ -1,0 +1,16 @@
+1. Assignment statements, Print statements
+2. Statements are executed from top to bottom.
+3. The variable course has not been assigned a value yet, but if it has a value, it adds one to its original value and the statement 'print' prints whatever you put between the quotation marks and prints the value for variable course as well.
+Therefore, the output would be:
+
+maybe you will take CS 112 next semester
+
+if we assume that the value for the variable course is 111.
+
+4. 
+a) The difference between weeks and 'weeks' is that weeks is a variable while 'weeks' is just a string that gets printed out as weeks.
+b) The program print 5 weeks instead of 6 or 5.7142... because the user used integer division, which only prints out integers.
+c) We could add another variable called daysLeft and assign it as daysLeft = days % 7 and print the value with appropriate prompt so that the readers could see weeks and remaining days.
+
+6. The program has an error and it stops me from running the program.
+

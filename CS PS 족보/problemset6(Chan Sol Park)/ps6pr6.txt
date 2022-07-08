@@ -1,0 +1,18 @@
+#
+# ps6pr5.txt (Problem Set 6, Problem 5)
+#
+# Computing a power using recursion.
+#
+
+00   read r1
+01   setn r15 100
+02   storer r1 r15
+03   call r14 8
+04   loadr r1 r15
+05   add r13 r13 r1
+06   write r13
+07   halt
+08   copy r13 r1
+09   addn r1 -1
+10   mul r13 r13 r1
+11   jumpr r14

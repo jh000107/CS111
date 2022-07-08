@@ -1,0 +1,25 @@
+Chan Sol Park
+chansol@bu.edu
+CS111
+ps6pr0
+
+1. In her paper, Hopper lists two drawbacks of ¡°using subroutines¡± (i.e., of abstracting sequences 
+   of instructions into reusable functions). Do you think those drawbacks still exist? How important 
+   are they today?
+
+	I do not think those drawbacks still exist. I believe that because as the society develops,
+	technologies and their functioning speeds also improve gradually. Therefore, one of the 
+	drawbacks which was speed would have been fixed. In fact, drawbacks are important for 
+	technologies because people try to fix those problems and improve certain issues and 
+	that makes the developments of techonology
+
+
+2. Hopper also lists five advantages of using subroutines, but her list is not comprehensive. Explain 
+   at least one advantage of a high-level language that Hopper did not mention in her paper. This may 
+   be an idea of your own, or you might take one from those mentioned in the biographical sketch of 
+   Hopper, since she continued to expand her arguments for such languages as her career progressed!
+
+	There are many more advantages (at the same time disadvantages) of using high-level language.
+	The data in it and the programs are portable, much faster than lower-level language, requires
+	much less amount of codes, high level of maintenance of data and information, and it can be
+	translated to the target machine description language, which is another computer language.

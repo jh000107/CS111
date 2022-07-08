@@ -1,0 +1,28 @@
+#
+# ps5pr9.txt (Problem Set 5, Problem 9)
+#
+# Calling a distance function twice
+#
+
+
+
+00   read r1          # get a reference value from the user
+01   read r2          # get the first candidate value from the user
+02   read r3          # get the second candidate value from the user
+03   copy r7 r2       # copy the value of r2 and store it to r7
+04   call r14 16      # call the distance function
+05   copy r4 r13      # copy the distance into r4
+06   copy r2 r3       # copy r2 value into r3
+07   call r14 16      # call the distance function for the second time
+08   copy r5 r13      # copy the second distance value into r5
+09   sub r6 r4 r5     # check which distance is closer
+10   jeqz r6 14       # if distances are same. print the first input
+11   jltz r6 14       # jump to line 14 if r4 is closer
+12   write r3         # print the value of r3
+13   halt
+14   write r7         # print the value of r2
+15   halt
+16   sub r13 r1 r2    # distance to first candidate value
+17   jgtz r13 19      # jump to line 19 if the output is positive
+18   neg r13 r13      # make it positive if it the output is negative
+19   jumpr r14        # ends the function

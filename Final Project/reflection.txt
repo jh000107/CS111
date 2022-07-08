@@ -1,0 +1,5 @@
+
+	I chose source bodies of text from New York Times and Chicago Tribune. And I compared them with one of my essays from WR112 class, one article from Boston Globe, Martin Luther King's speech -- I have a dream, and finally, one article from USAToday.
+The results of my comparisons say that wr112 is more likely to have come from times, Martin is more likely to have come from chicagotribune (Martin Luther King's speech), globe is more likely to have come from chicagotribune (Boston Globe), and lastly, usatoday is more likely to have come from times (USAToday)
+
+	I am pretty positive that my text classification program has many errors. Since I only put 5 feature dictionaries, my program would not be that much precise. English has uncountable structures, grammars, styles, and dictions, so 5 would be way too small to classify writings in English, or in any other languages. To improve my program, I would have to include more classifying dictionaries. A lot more. Also, it would be better to put more if's for stem function as well.

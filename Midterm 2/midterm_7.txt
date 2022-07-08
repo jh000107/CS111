@@ -1,0 +1,11 @@
+#
+# midterm practice 7
+#
+
+
+00	read r1		# reads first input from the user
+01	read r2		# reads second input from the user
+02	sub r3 r1 r2	# r3 = r1 - r2
+03	mul r4 r3 r3	# squares the result
+04	write r4
+05	halt

@@ -1,0 +1,20 @@
+#
+# ps6pr2.txt (Problem Set 6, Problem 2)
+#
+# Computing a power by looping
+#
+# If you worked with a partner, put his or her contact info below:
+# partner's name:
+# partner's email:
+#
+
+
+00   read r1           # get 1stt# from user and store it in r1
+01   read r2           # get 2nd# from user and store it in r2
+02   setn r3 1         # initialize r3, which will store the result
+03   jeqzn r2 07       # jump to line 07 if r2 == 0
+04   mul r3 r3 r1      # r3 = r3 * r1
+05   addn r2 -1        # r2 = r2 - 1
+06   jumpn 03          # jump back to line 03
+07   write r3          # write out the result
+08   halt

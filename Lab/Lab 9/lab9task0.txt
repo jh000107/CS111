@@ -1,0 +1,31 @@
+Fill in your answers to the questions in Task 0 below.
+
+1. The constructor is called: __init__
+
+   Every Point object has attributes called: init_x, init_y
+
+   To create the specified Point objects from the Shell:
+
+       >>> p1 = Point(3, 4)
+       >>> p2 = Point(-5, -12)
+
+3. The correct call is:  
+
+       >>> c
+
+4. The move_down() method does the following:
+
+   It doesn't need to return a value because: it just changes the position of the point. Does not need a return value. To check the result, you could call p1.
+
+
+5. We see the following:
+
+       >>> p1 == p2
+       False
+
+       >>> p1 == p3
+       True
+
+
+    
+

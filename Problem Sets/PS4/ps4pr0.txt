@@ -1,0 +1,9 @@
+1. Which contributing factor within the bug’s origins (there are many!) strikes you as the “most preventable” and why? Of course, this will be in hindsight.
+
+I believe that "most preventable" factor within the bug's origins is the calculation. In coding, especially when it gets to coding a huge program involving numbers, calculations are inevitable and necessary. Such calculations always have correct answers and things go wrong even if a single digit is wrong. Therefore, I believe that checking calculations is the "most preventable" and also a "should-be-preventable" factor within the bug's origins.
+
+Based on this article though, diagnostic error message also seems preventable too. The whole software went shut down because of the on-board computer tried to convert data from 64 to 16 bit format. In this process, the computer converted the data that was not supposed to be converted. Acknowledging consequences before executing the program is always the best answer to prevent various errors.
+
+2. The investigative report that uncovered the bug stated that software “does not fail in the same sense as a mechanical system.” Do you agree or disagree with this statement? Explain briefly.
+
+I agree that software "does not fail in the same sense as a mechanical system." A mechanical system is consisted of well-functioning calculations that do their jobs without mistakes. However, softwares always have to deal with unexpected errors that occur in unexpected situations. Such errors make errors in calculations and those errors can make huge difference in output, causing devastating troubles. Therefore, I also think that there is a difference in a mechanical system and a software. 

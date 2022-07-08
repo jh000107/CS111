@@ -1,0 +1,30 @@
+#
+# ps5pr8.txt (Problem Set 5, Problem 8)
+#
+# Using a function and a loop to determine if a number is prime
+#
+
+ 
+
+00   read r1          # get an integer from user and store it in r1
+01   setn r2 0        # printed when not prime number
+02   setn r3 1        # printed when prime number
+03   setn r4 2        # set r4 == 2 for increasing divisor
+04   copy r13 r1      # future output
+05   div r5 r1 r4     # set r5 so that it ends the loop in the function
+06   call r14 14      # calls a function
+07   write r13        # print the value of the result
+08   sub r8 r13 r1    # checks to see if the result is prime or not
+09   jnez r8 12       # jumps to line 12 if it is not a prime
+10   write r3         # print when it is a prime
+11   halt
+12   write r2         # print when it is not a prime
+13   halt
+14   mod r6 r1 r4     # check to see if the input gets divided evenly
+15   jeqz r6 20       # jump to line 20 if it gets divided evenly
+16   addn r4 1        # add 1 to the divisor
+17   sub r7 r5 r4     # check to see if r5 == r4
+18   jeqz r7 21	      # jump to line 21 if r5 == r4
+19   jumpn 14         # jump to line 11
+20   copy r13 r4      # possible result of a function
+21   jumpr r14        # ends the function

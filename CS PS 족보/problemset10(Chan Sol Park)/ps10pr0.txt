@@ -1,0 +1,30 @@
+ps10pr0
+CS111
+Chan Sol Park
+
+1. Suppose that pivot searching were readily available to you. To what extent could you imagine 
+   using it? Do you feel it would make you more productive ? or would this type of search remain 
+   largely unused in the way you interact with computation and electronic materials?
+
+	I would be using it to study and do much better in any exams or tests, which require
+	tremendous amount of memorizations. The time for students to study will be shortened
+	and more students will do much better in any courses. Memorizing words, stories, facts,
+	and any information will be done much quickly and easily by any students. Thus, the
+	society's education level will also develop. 
+
+
+2. In the conference paper on pivot searching, the authors point out that the approach may 
+   especially help particular types of professionals, e.g., it would allow doctors ¡°to search on 
+   the context (symptoms) of other patients, thus discovering diagnoses, treatments and other 
+   relevant information¡± and would allow lawyers to ¡°leverage a context search tool based on 
+   cases, allowing them to search on client name, arguments made, resources cited, and then 
+   seeing the contexts in which they were applied.¡± Do you find these imagined applications 
+   believable and/or compelling? Could you imagine other endeavors where context-based searches 
+   would be even more beneficial?
+
+	If pivot system or the context-based searching programming works perfectly, it can benefit 
+	the society and people almost in any subjects. Furthurmore, what this system can benefit
+	the most would be alzheimer or any loss of memory. It can prevent old people getting 
+	the disease and losing their memoeries or any people who lost their memories due to
+	accidents. 
+	

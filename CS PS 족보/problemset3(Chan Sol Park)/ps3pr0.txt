@@ -1,0 +1,18 @@
+Chan Sol Park
+chansol@bu.edu
+cs111
+
+1. What was the most interesting or important idea in this article for you ? and why?
+The idea that computer science can be used for medical purposes was interesting. 
+Before, I thought computer science can only be used to develop computers and other 
+electronic devices. However, after reading this article, I realized that in the future,
+computers can improve human health gradually. 
+
+
+2. Which homework problem that we¡¯ve done so far would you describe as being closest 
+   to the kinds of problems solved by the DNA computers mentioned in the article? Why?
+Question 4 and 5 in problem 6 (fun with recursions ||) in problem set 2 were similar 
+to the idea presented in this article. In these questions, programs were set to 
+convert DNA values to RNA values when a string is given. Questions 4 program was coded 
+to convert a single letter (character) of a DNA value to RNA and question 5 program was
+coded to convert a string that contains multiple letters of DNA values to RNA values. 

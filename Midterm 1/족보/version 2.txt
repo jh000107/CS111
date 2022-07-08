@@ -1,0 +1,87 @@
+In this version, the value of s is 'programmer'
+
+problem 1
+---------
+a)  'r'
+b)  6
+c)  [10]
+d)  'ramme'
+e)  [10, 6, 0]
+
+problem 2
+---------
+a)  [3, 4, 5, 6]
+b)  ['b', 'c']
+c)  [3, 5, 2, 2, 2]
+d)  [False, True, False, True, False]
+
+problem 3
+---------
+a) mystery(6, 2) calls mystery(5, 4)
+       mystery(5, 4) calls mystery(4, 6)
+           mystery(4, 6) returns 6
+       mystery(5, 4) returns 5 + 6 = 11
+   mystery(6, 2) returns 6 + 11 = 17
+
+b) 17
+
+problem 4
+---------
+def remove_spaces(s):
+    if s == '':
+        return ''
+    else:
+        rem_rest = remove_spaces(s[1:])
+        if s[0] == ' ':
+            return rem_rest
+        else:
+            return s[0] + rem_rest
+
+problem 5
+---------
+foo 5 3
+foo 8 6
+6 3
+foo 3 3
+foo 6 4
+6 3
+
+problem 6
+---------
+# solution using a list comprehension
+def min_pos(values):
+    pos_vals = [x for x in values if x > 0]
+    return min(pos_vals)
+
+# solution using a recursive helper function
+def pos_values(values):
+    if values == []:
+        return []
+    else:
+        pos_rest = pos_values(values[1:])
+        if values[0] > 0:
+            return [values[0]] + pos_rest
+        else:
+            return pos_rest
+
+def min_pos(values):
+    pos_vals = pos_values(values)
+    return min(pos_vals)
+
+problem 7
+---------
+def num_occur(val, values):
+    if val not in values:     # values == [] would also work
+        return 0
+    else:
+        num_in_rest = num_occur(val, values[1:])
+        if values[0] == val:
+            return 1 + num_in_rest
+        else:
+            return num_in_rest
+
+problem 8
+---------
+fun
+fad
+fit

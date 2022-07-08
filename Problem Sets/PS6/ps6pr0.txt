@@ -1,0 +1,8 @@
+1. In light of the reading, make an argument for how computational models help and/or hurt society. You are welcome to stake out a middle position, or to take a strong stand on either side. Just make sure that your argument is informed by the reading.
+
+I would say that I am on a positive side of this argument. Even though the current computational models are making errors that are disastrous, these models are still working in terms of predicting catastrophic events. I believe that in many scientific fields and in economic field, it is impossible to make a perfect model that predicts everything perfectly. These fields have so many unexpected factors that could affect the models. We could have huge negative impact on society if we solely trust the models and behave based on them, but we don't actually. We know that the models are not perfect and scientists are trying their best to predict possible catastrophes. Although models create huge problems sometimes, they still give more positive impact than negative impact on the society.
+
+2. Based on the information in the articles, how can computer scientists and others who develop computational models ensure that their models are correct? Is it even possible to do so?
+
+I believe that it is impossible to develop perfect computational models that create no errors. Even philosophically, it is impossible to be perfect. With unexpected situations and factors in reality, it is impossible to make models that predict every possible consequences. In short, it is impossible to design models that contain specifics such as plants and animals in the tropics, climate change, human behaviors, and many others.
+ 

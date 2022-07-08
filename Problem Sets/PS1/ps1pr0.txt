@@ -1,0 +1,5 @@
+1. In the article, the author states at some point that the correlation drawn from massive amount of data is just a data. Big data is now a common system that exists in todays world. Big data is used in adverting, politics, and even closer, Netflix. From these examples, now we are pretty sure that bid data is a key to solving a long-run mystery: human behavior and psychology.
+
+
+
+2. The article states that models are not a requirement either in science or in business. I agree with this statement in the point that models are not necessary anymore since we could find the correlations between massive amount of data. In science, we find models based on the correlation between 'variables' and modify it so that it could be the general 'rule' that could be applied. However, I think that, with slightly being risky, it would be a great estimation for computers to find correlations between data and like what the author said in the article, discover what we have not seen yet. However, using this 'estimation' would definitely have a limitation and it is our job now to find the way to make that estimation to a fact.

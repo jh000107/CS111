@@ -1,0 +1,16 @@
+#
+# midterm 2 problem 9
+#
+
+00	read r1		# takes a number from the user
+01	setn r13 111	# set r13 = 111
+02	jeqz r1 6	# jump to line 6 if r1 = 0
+03	call r14 8	# calls a function
+04	jeqz r1 6	# jump to line 6 if r1 = 0
+05	jumpn 3		# jump to line 3
+06	halt
+07	nop
+08	write r13	# print r13
+09	addn r1 -1	# subtract 1 from r1
+10	jumpr r14	# ends the function
+

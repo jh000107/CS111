@@ -1,0 +1,27 @@
+mystery(1, 32)
+--------------
+    a = 1
+    b = 32
+    myst_rest = mystery(2, 16) = 10
+    return 1 + 11 = 11
+
+    mystery(2, 16)
+    --------------
+        a = 2
+        b = 16
+        myst_rest = mystery(4,8) = 8
+        return 8 + 2 = 10
+
+        mystery(4, 8)
+        ---------------------
+            a = 4
+            b = 8
+            myst_rest = (8, 4) = 4
+            return 4 + 4 = 8
+	
+            mystery(8, 4)
+            -------------------
+		a = 8
+		b = 4
+		return 4
+	    

@@ -1,0 +1,23 @@
+Chan Sol Park
+ps7pr0
+
+1. In light of the reading, make an argument for how computational models help and/or hurt 
+   society. You are welcome to stake out a middle position, or to take a strong stand on 
+   either side. Just make sure that your argument is informed by the reading.
+
+	I strongly believe that computational models can greatly support the human society. 
+	It may be true that because the current computational models are not perfect and may
+	create few errors, it could make scientists to make wrong decisions. However, I believe
+	that technologies, including the computational models, will develop rapidly and those
+	errors will be covered. In the future, computational models will make more innovative
+	technologies without causing any causalities. 
+
+
+2. Based on the information in the articles, how can computer scientists and others who 
+   develop computational models ensure that their models are correct? Is it even possible 
+   to do so?
+	
+	It is not possible to do so, because nothing can be perfect. No matter how
+	careful those scientists were, there will be mistakes. However, the goal of
+	those scientists is to eradicate as many mistakes as possible and minimize
+	the negative impacts of the computational models. 

@@ -1,0 +1,40 @@
+1.
+mystery(5, 6) = 14
+-------------
+    a = 5
+    b = 6
+    myst_rest = mystery(4, 4) = 8
+    return 6 + 8 = 14
+
+    mystery(4, 4)
+    -----------------
+        a = 4
+        b = 4
+        myst_rest = mystery(3, 2) = 4
+        return 4 + 4 = 8
+	
+	mystery(3,2)
+	--------------
+	    a = 3
+	    b = 2
+            myst_rest = mystery(2, 0) = 2
+	    return 2 + 2 = 4
+	    
+	    mystery(2, 0)
+	    ---------------
+		a = 2
+		b = 0
+		return 2
+
+2. What is the value returned by mystery(5, 6)?
+
+Answer: 14
+
+3. During the execution of mystery(5, 6), stack frames are added and then removed from the stack. How many stack frames are on the stack when the base case is reached? You should assume that the initial call to mystery(5, 6) is made from the global scope, and you should include the stack frame for the global scope in your count.
+
+Answer: 5
+
+4. Give an example of specific values of a and b that would produce infinite recursion, and explain why it would occur.
+
+Answer: mystery(-1, -1)
+Reasoning: both a and b never become 0 and ends in infinite loop.

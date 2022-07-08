@@ -1,0 +1,26 @@
+Chan Sol Park
+chansol@bu.edu
+CS111
+
+1. Which contributing factor within the bug¡¯s origins (there are many!) strikes you as the 
+  ¡°most preventable¡± and why? Of course, this will be in hindsight.
+
+	One of the bugs that seemed to be most preventable was the diagnostice error message,
+	which was made by the on-board computer that tried to convert one huge data from a 
+	64 bit format to a 16 bit format. The computer should not have converted the data
+	or split the data into multiple pieces then conver them to 16 bit formats. This
+	error seems possible to be fixed by adding little more codes and drives. 
+
+
+2. The investigative report that uncovered the bug stated that software ¡°does not fail in 
+   the same sense as a mechanical system.¡± Do you agree or disagree with this statement? 
+   Explain briefly.
+
+	I agree with this statement because I believe that there are many differences
+	between the system in mechanics and the system in the real world. In the mechanical
+	system, everything is perfectly calculated. So everything would go as expected,
+	following calculations. However, in the real world, nothing can be perfectly
+	calculated. There are always errors and those errors grealt impact the calculations. 
+	Therefore, when applying mechanic system to real world, people should always expect
+	to have unexpceted errors to occur.  
+	

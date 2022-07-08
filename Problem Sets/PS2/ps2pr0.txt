@@ -1,0 +1,11 @@
+1. What was the most interesting or important idea in this article for you and why?
+
+The most interesting idea in this article for me was the fact that the professor at Columbia University actually said that what future students are going to study could be based on the development of artificial intelligence. Such statement from a famous professor forced me to think of the major influence that artificial intelligence would make in mankind's history. I actually wrote my college essays based on the interactions between future AI and us and the effective ways of adopting it (also read an article related to Watson and how accurate it is in medical field), so it is really interesting. Also, it is really important to note that the artificial intelligence is now on the level of "thinking robot" and this is revolutionary in history. The time it takes for Watson to gather information is unbelievable and it shows how AI could contribute in contemporary society.
+
+2. What is an application that (in your opinion) Watson's technology might be able to contribute to? Alternatively, do you feel Watson's capabilities will not make much of an impact?
+
+Watson's technology, in my opinion, could be used in so many different ways. First of all,  in the article, it seems like Watson is used for gathering information and giving an answer or a question to specific details asked. With this function, you could use it in searching engine, diagnostics for patients, and many others. When I said a searching engine, I meant you could use it in everyday life. For example, if you ask every features you want for place for vacation, Watson-like AI could find you the best fitting place. This seems normal and shallow, but the capability of an AI that would process this work requires huge amount of money and skills.
+
+3. Whether or not you had the chance to interact with Watson, comment on your sense of the similarities and/or differences between Watson-style and human-style thinking.
+
+I think this is a fundamental question that continues to come out when we discuss about the difference between a computers and a human. I believe that Watson-style of thinking is more logical than human but would not be as approachable as what human thinks and connects to situations.

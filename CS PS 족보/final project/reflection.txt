@@ -1,0 +1,13 @@
+Chan Sol Park
+CS 111
+Final Project Reflection
+
+1. I used the text of the book "harry potter and the prisoner of azkaban chapter 1", which is 
+   written by J.K. Rowling, and compared that to 4 other texts which were: chapter 1 summary of
+   hamlet from sparksnote, a news article about ISIS from CNN, my personal essay for environmental 
+   cilmate and earth about Cape Code, and the chapter 3 summary of montana 1948 from litchart.
+
+2. the result showed me that my essay about the Cape Cod is more likely to have come from rowling
+
+3. I do not think that my program is perfect. I can improve this program by considering and adding
+   more possible stemming features, and by adding more dictionary features to the program.

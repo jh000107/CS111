@@ -1,0 +1,3 @@
+What are the advantages and disadvantages of pursuing a strategy of evolving programs to solve problems, rather than writing them for a specific task?
+
+The advantages of pursuing a strategy of evolving programs to solve problems would be the accuracy, the amount of data it could contain in terms of the evolution, and the flexibility. Evolving programs can achieve goals through interaction among programmed agents. Such interactions make possible for programs to "adapt to unforeseen changes in the task environment," (Bongard) which helps to correct some of the misleading directions. However, the disadvantage of it is clear as well. Because the programs can basically make guesses, unwanted output could come out from the program.

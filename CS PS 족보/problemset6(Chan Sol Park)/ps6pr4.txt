@@ -1,0 +1,28 @@
+#
+# ps6pr4.txt (Problem Set 6, Problem 4)
+#
+# The Fibonacci sequence
+#
+
+
+00   read r1           # get the input from user and store it in r1 (r1 = count of #)
+01   setn r2 1         # set r2 = 1
+02   setn r3 1         # set r3 = 1
+03   setn r5 2         # set r5 = 2 (because the input is 2>=0)
+04   write r2          # print value of r2 and r3 because input is 2>=0
+05   write r3          # print value of r2 and r3 because input is 2>=0
+06   addn r1 -2        # subtract 2 from r1 value
+07   jeqzn r1 15       # stop and write the sum if r1 = 0
+08   add r4 r2 r3      # r4 = r2 + r3
+09   call r6 18        # jumps to the separate function that calculates the sum
+10   write r4          # print the value of r4
+11   copy r2 r3        # copy the value of r3 to r2
+12   copy r3 r4        # copy the value of r4 to r3
+13   addn r1 -1        # subtract r1 by 1
+14   jgtzn r1 07       # loop the function is count is greater than zero
+15   write r5          # this is where the function ends, prints the sum value
+16   halt
+17   nop
+18   add r5 r5 r4      # caculate the sum, r5 = r5 + r4
+19   jumpr r6          # jump back to the looping function (original)
+

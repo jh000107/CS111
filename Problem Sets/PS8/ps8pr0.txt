@@ -1,0 +1,7 @@
+1. The article claims that researchers have been “fine-tuning a computer system that is trying to master semantics by learning more like a human.” Based on the article and your own experiences programming computers (in circuit diagrams, assembly language, and Python), how do computers operate and learn differently from the way humans do? Are there any similarities?
+
+The main difference between the way humans and computers learn. We, humans, learn from our mistakes and that is fundamental to our learning and intelligence. This is something that a machine could not do for centuries. I think it is hard to define something as a similarity between humans and machines. Humans made machines and machines are supposed to work as humans designed. 
+
+2. The NELL system had to have human help in order to avoid the cascade of mistaken conclusions from the statement, “I deleted my Internet cookies.” Do you believe machine-learning systems (like NELL or others) will always need human assistance such as this, or will they be able to overcome such problems in the future? Give a brief explanation for your thoughts.
+
+I believe that machines would always need human assistance to overcome such problems. Machines work based on the data that they have. If something goes wrong, for example, some catastrophic event that never had happened before, machines would not be able to predict such thing. Or possibly, something could happen in unusual way. Human assistance will be required in order to fix these problems.
